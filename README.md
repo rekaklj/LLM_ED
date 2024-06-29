@@ -7,4 +7,4 @@ The notebooks are organized into five folders:<br>
 - `prompting`
 - `post-processing`
 - `evaluation`
-- `datacontamination`
+- `data contamination`
