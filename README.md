@@ -8,4 +8,4 @@ The notebooks are organized into six folders:<br>
 - `post-processing`
 - `evaluation`
 - `error_analysis`
-- `data contamination`
+- `datacontamination`
